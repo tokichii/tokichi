@@ -1,0 +1,79 @@
+body{
+    text-align:center;
+    font-family:"Microsoft Sans Serif";
+    
+}
+
+.team_name{
+    font-weight: 800;
+    
+    font-size: 40px;
+    color:darkred;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.btn{
+    list-style: none;
+    background-color:darkred;
+    font-size: 20px;
+    padding:0px 20px 0px 20px;
+    color:white;
+    
+    
+}
+.enzin{
+    padding-top: 50px;
+}
+.spi{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    text-align: left;
+}
+.spi li{
+    list-style: none;
+    color:darkred;
+    font-size: 30px;
+    padding-bottom: 10px;
+    
+    }
+.about{
+    font-size:30px;
+    color:darkred;      
+}
+.about-main{
+    padding: 20px 70px 0px 70px ;
+    
+}
+.performance{
+    padding-top: 40px;
+    font-size:30px;
+    color:darkred;
+}
+.performance2{
+    padding: 20px 70px 30px 70px ;
+}
+.member{
+    padding-top: 40px;
+    font-size:30px;
+    color:darkred;
+}
+.uni{
+    padding-top: 40px;
+    font-size:30px;
+    color:darkred;
+}
+
+.memberbar{
+    background-color:darkred;
+    margin-top: 15px;
+    color:white;
+    
+    padding:1px 10px 1px 10px;
+}
+.memberbar li{ 
+    list-style: none ;
+    display: inline;
+    padding-right: 2px;
+    padding-left: 2px;
+    font-size: 15px;
+}
